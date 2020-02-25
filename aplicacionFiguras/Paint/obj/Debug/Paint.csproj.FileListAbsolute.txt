@@ -1,0 +1,24 @@
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Axel\Documents\SharpDevelop Projects\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Axel\Downloads\Porsiaca\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.MainForm.resources
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Axel\Desktop\PaitnAXEL\Paint\Paint\obj\Debug\Paint.pdb
