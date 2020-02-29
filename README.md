@@ -26,3 +26,6 @@ La implementacion es creada en Java utilizando las propiedades que proporciona *
 
 ## Demostracion 
 ![](gif_aplicacion.gif)
+
+## Modelo
+![](Diagrama_de_clases.png)
