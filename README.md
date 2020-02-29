@@ -28,4 +28,7 @@ La implementacion es creada en Java utilizando las propiedades que proporciona *
 ![](gif_aplicacion.gif)
 
 ## Modelo
-![](Diagrama_de_clases.png)
+
+El modelo fue diseñado principalmente separando la vista de la logica, haciendolas conexas mediante un controlador (Driver) el cual se encarga de traer los datos de las figuras tales como: el como dibujarlo o como encontrar su area y perimetro en tiempo real.
+Las figuras extienden desde una clase abstracta llamada figuras la cual determina los atributos y metodos generales.
+![Preview](Diagrama_de_clases.png)
